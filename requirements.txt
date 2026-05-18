@@ -1,0 +1,8 @@
+dash
+pandas
+plotly
+gspread
+geopandas
+pyogrio
+oauth2client
+gunicorn
