@@ -32,6 +32,7 @@ The analysis notebooks are systematically organized using a specific prefix that
 | `mapa_ambientes_aula_pba_se.py` | Dashboard | Map of schools and other places which could handle the classes in each town - on placed Render |
 | `mapas_pba_2026.ipynb` | Dashboard | Map of coordinators per town: used to help manage coordinators while implementing the PBA groups |
 | `SE_2026.1_Atividade_Entrada.ipynb` | Regular Classes | Diagnostic Evaluation (Baseline/Entry) |
+| `SE_2026.1_Formativa_1.ipynb` | Regular Classes | First Socioemotional Report and Formativa 1 Assessment Analysis |
 
 ### 🛠️ Auxiliary and Infrastructure Files
 * `PBA SE.code-workspace`: VS Code workspace configuration file.
@@ -112,6 +113,7 @@ Os notebooks de análise estão organizados sistematicamente utilizando um prefi
 | `mapa_ambientes_aula_pba_se.py` | Dashboard | Mapa de escolas e outros locais que poderiam abrigar as turmas em cada município - hospedado no Render |
 | `mapas_pba_2026.ipynb` | Dashboard | Mapa de coordenadores por município: usado para ajudar a gerenciar os coordenadores durante a implementação dos grupos do PBA |
 | `SE_2026.1_Atividade_Entrada.ipynb` | Turmas Regulares | Avaliação Diagnóstica (Linha de Base/Entrada) |
+| `SE_2026.1_Formativa_1.ipynb` | Turmas Regulares | Análise de Relatório Socioemocional de Entrada e Formativa 1 |
 
 ### 🛠️ Arquivos Auxiliares e de Infraestrutura
 * `PBA SE.code-workspace`: Arquivo de configuração do espaço de trabalho (workspace) do VS Code.
