@@ -64,7 +64,7 @@ Due to storage guidelines and **GitHub file size limit policies** for large data
 
 To reproduce all analyses, metrics, and charts present in the notebooks, the complete dataset package containing the public tables (fully anonymized with fictitious data) must be downloaded externally:
 
-👉 **[Click here to download the anonymized data files](https://1drv.ms/f/c/835153c0338453fe/IgATek26k9XxQKkWwnW19oaZAR5A0vMburMirPT5rMdVszg?e=NRIqM5)**
+👉 **[Click here to download the anonymized data files](https://1drv.ms/f/c/835153c0338453fe/IgATek26k9XxQKkWwnW19oaZAR5A0vMburMirPT5rMdVszg?e=Q42Ugu)**
 
 > 📥 **Storage Instructions:** After downloading, extract and place the files directly inside the local folder structure at `Data_files/public_data/` before launching Jupyter Notebook.
 
@@ -154,7 +154,7 @@ Devido às diretrizes de armazenamento e às **políticas de limite de tamanho d
 
 Para reproduzir todas as análises, métricas e gráficos presentes nos notebooks, o pacote completo de dados contendo as tabelas públicas (totalmente anonimizadas com dados fictícios) deve ser baixado externamente:
 
-👉 **[Clique aqui para baixar os arquivos de dados anonimizados](https://1drv.ms/f/c/835153c0338453fe/IgATek26k9XxQKkWwnW19oaZAR5A0vMburMirPT5rMdVszg?e=NRIqM5)**
+👉 **[Clique aqui para baixar os arquivos de dados anonimizados](https://1drv.ms/f/c/835153c0338453fe/IgATek26k9XxQKkWwnW19oaZAR5A0vMburMirPT5rMdVszg?e=Q42Ugu)**
 
 > 📥 **Instruções de Armazenamento:** Após o download, extraia e coloque os arquivos diretamente dentro da estrutura de pastas locais em `Data_files/public_data/` antes de iniciar o Jupyter Notebook.
 
