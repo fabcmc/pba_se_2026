@@ -33,8 +33,15 @@ The analysis notebooks are systematically organized using a specific prefix that
 | `mapas_pba_2026.ipynb` | Dashboard | Map of coordinators per town: used to help manage coordinators while implementing the PBA groups |
 | `analise_f1_alfabetizandos_n1_e_n2.ipynb` | Regular Classes | First Socioemotional Report and Formativa 1 Assessment Analysis to understand causes of bad results |
 | `analise_desistentes.ipynb` | Regular Classes | Diagnostic Evaluation (Baseline/Entry) to understand students' evasion data behaviour |
-| `SE_2026.1_Atividade_Entrada.ipynb` | Regular Classes | Diagnostic Evaluation (Baseline/Entry) |
-| `SE_2026.1_Formativa_1.ipynb` | Regular Classes | First Socioemotional Report and Formativa 1 Assessment Analysis |
+| `SE_2026.1_Atividade_Entrada.ipynb` | Regular Classes | First Semester of 2026 Diagnostic Evaluation (Baseline/Entry) Analysis |
+| `SE_2026.1_Formativa_1.ipynb` | Regular Classes | First Semester of 2026's Socioemotional Report and Formativa 1 Assessment Analysis |
+| `SE_2026.1_Formativa_2.ipynb` | Regular Classes | First Semester of 2026's Formativa 2 Assessment Analysis |
+| `SE_2026.1_Formativa_3.ipynb` | Regular Classes | First Semester of 2026's Formativa 3 Assessment Analysis |
+| `SE_2026.1_Formativa_4.ipynb` | Regular Classes | First Semester of 2026's Formativa 4 Assessment Analysis |
+| `SE_2026.1_Atividade_Saida.ipynb` | Regular Classes | First Semester of 2026's Socioemotional Report and Atividade de Saída Assessment Analysis |
+| `SE_2026.2_Atividade_Entrada.ipynb` | Regular Classes | Second Semester of 2026's Socioemotional Diagnostic Evaluation (Baseline/Entry) Analysis |
+| `SE_2026.2_Formativa_1.ipynb` | Regular Classes | Second Semester of 2026's Formativa 1 Assessment Analysis |
+| `SE_2026_Aditivo_Atividade_Entrada.ipynb` | Extra Classes | Socioemotional Diagnostic Evaluation (Baseline/Entry) Analysis related to the groups of the contract addendum |
 
 ### 🛠️ Auxiliary and Infrastructure Files
 * `PBA SE.code-workspace`: VS Code workspace configuration file.
@@ -116,8 +123,15 @@ Os notebooks de análise estão organizados sistematicamente utilizando um prefi
 | `mapas_pba_2026.ipynb` | Dashboard | Mapa de coordenadores por município: usado para ajudar a gerenciar os coordenadores durante a implementação dos grupos do PBA |
 | `analise_f1_alfabetizandos_n1_e_n2.ipynb` | Turmas Regulares | Análise de Relatório Socioemocional de Entrada e Formativa 1 para entender os motivos de resultados ruins |
 | `analise_desistentes.ipynb` | Turmas Regulares | Avaliação Diagnóstica (Linha de Base/Entrada) para entender o comportamento dos dados de evasão dos alunos |
-| `SE_2026.1_Atividade_Entrada.ipynb` | Turmas Regulares | Avaliação Diagnóstica (Linha de Base/Entrada) |
-| `SE_2026.1_Formativa_1.ipynb` | Turmas Regulares | Análise de Relatório Socioemocional de Entrada e Formativa 1 |
+| `SE_2026.1_Atividade_Entrada.ipynb` | Turmas Regulares | Análise da Avaliação Diagnóstica (Linha de Base/Entrada) para turmas do primeiro semestre de 2026 |
+| `SE_2026.1_Formativa_1.ipynb` | Turmas Regulares | Análise de Relatório Socioemocional de Entrada e Formativa 1 para turmas do primeiro semestre de 2026 |
+| `SE_2026.1_Formativa_2.ipynb` | Turmas Regulares | Análise de Atividade Formativa 2 para turmas do primeiro semestre de 2026 |
+| `SE_2026.1_Formativa_3.ipynb` | Turmas Regulares | Análise de Atividade Formativa 3 para turmas do primeiro semestre de 2026 |
+| `SE_2026.1_Formativa_4.ipynb` | Turmas Regulares | Análise de Atividade Formativa 4 para turmas do primeiro semestre de 2026 |
+| `SE_2026.1_Atividade_Saida.ipynb` | Turmas Regulares | Análise da Atividade de Saída (Linha de Base/Saída) e Socioemocional de Saída para turmas do primeiro semestre de 2026 |
+| `SE_2026.2_Atividade_Entrada.ipynb` | Turmas Regulares | Análise da Avaliação Diagnóstica (Linha de Base/Entrada) e Socioemocional de Entrada para turmas do segundo semestre de 2026 |
+| `SE_2026.2_Formativa_1.ipynb` | Turmas Regulares | Análise de Atividade Formativa 1 para turmas do segundo semestre de 2026 |
+| `SE_2026_Aditivo_Atividade_Entrada.ipynb` | Turmas Extras | Análise da Avaliação Diagnóstica (Linha de Base/Entrada) e Socioemocional de Entrada para turmas do aditivo de contrato |
 
 ### 🛠️ Arquivos Auxiliares e de Infraestrutura
 * `PBA SE.code-workspace`: Arquivo de configuração do espaço de trabalho (workspace) do VS Code.
